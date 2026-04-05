@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.odd-num {
+    background-color:#ff9eae;
+}
+
+.odd-num.three {
+    font-size: 24px;
+}
+
+#two {
+color:blue;
+font-size:38px;
+}
+
+#four {
+font-weight: bold;
+font-size: 24px;
+background-color:rgb(94, 245, 48);
+}
